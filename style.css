@@ -146,14 +146,14 @@ img {
     justify-content: space-between;
 }
 
-.btn {
+/* .btn {
     background-color: rebeccapurple;
     color: #fff;
     border: none;
     padding: 0.5rem;
     cursor: pointer;
     width: 49.8%;
-}
+} */
 
 .btn:hover {
     opacity: 0.9;
